@@ -8,7 +8,7 @@ Basic Library Management System built with React and CRUD operations. This syste
 
 Clone the repository, change directories, and use NPM to install the dependencies.
 
-- $ git clone https://github.com/prosenjeetshil/React-CRUD-Library-Management-System.git
+- $ git clone https://github.com/ShubhamLakha/React-CRUD-Library-Management-System-master.git
 - $ cd React-CRUD-Library-Management-System
 - $ npm install
 
